@@ -1,4 +1,4 @@
-# Attack of the Beat (Beat Dungeon)
+# Attack of the Beat
 ---
 #### Members:
 - Sean McManes (mcmanesw@mail.uc.edu)
