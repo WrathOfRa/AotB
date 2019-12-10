@@ -10,7 +10,6 @@ ___
 ---
 
 __Project Description/Abstract__
----
 ___
 The goal of this project is to create a game that is an enjoyable experience for the player by challenging them, creating an interesting game environment, and has game mechanics that have not been fully explored by other games.
 
