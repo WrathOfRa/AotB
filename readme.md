@@ -13,7 +13,6 @@ ___
 
 __Project Description/Abstract__
 ---
----
 ___
 The goal of this project is to create a game that is an enjoyable experience for the player by challenging them, creating an interesting game environment, and has game mechanics that have not been fully explored by other games.
 
@@ -34,10 +33,10 @@ Our approach to this problem would include the following:
   * Aspects of the world design could also be affected by the song, with lighting and room design changing with the music
 
 
+
 ---
 
 __User Stories__
----
 ---
 ___
 * As a programmer, I want the code to be clean and adaptable so I can make quick and simple additions to the game.
@@ -49,10 +48,10 @@ ___
 * As an artist, I want the design and artwork in the game to work together and fit the game style, so that the experience for the player is visually pleasing and can accurately depict the game.
 
 
+
 ---
 
 __Design Diagrams__
----
 ---
 ___
 ##### Level 0
@@ -75,15 +74,14 @@ ___
 
 __Diagram Description__
 ---
----
 ___
 All of the diagrams shown above demonstrate the general flow of inputs and outputs of our system, the user input and output devices, and the user themselves.  At every iteration we increase the depth and description of each major group in this cycle to show what options each member has to be able to influence the system.  At the deepest iteration, we detail the internal cycles of updates and projected outputs of our system and also the general flow of information within our input and output devices, and our user’s thought process and possible execution.
+
 
 
 ---
 
 __Project Tasks__
----
 ---
 ___
 * Design overall basis of game style and design (may be changed or expanded in the future) – Sean and Hung
@@ -111,10 +109,10 @@ ___
 * Create product demos – Sean and Hung
 
 
+
 ---
 
 __Project Timeline__
----
 ---
 ___
 
@@ -122,23 +120,9 @@ ___
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 
 __Effort Matrix__
----
 ---
 ___
 
@@ -146,24 +130,9 @@ ___
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 
 __PowerPoint Slideshow__
----
 ---
 ___
 
@@ -171,27 +140,9 @@ https://github.com/WrathOfRa/CS_Senior_Design/tree/master/Homework/Assignment_8/
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 
 __Self-Assessment Essays__
----
 ---
 ___
 
@@ -223,19 +174,9 @@ Our expected result is a working game with actual physics. This included knockba
 
 
 
-
-
-
-
-
-
-
-
-
 ---
 
 __Professional Biographies__
----
 ---
 ___
 
@@ -294,39 +235,9 @@ ___
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 
 __Budget__
----
 ---
 ___
 
@@ -404,41 +315,9 @@ ___
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 
 __Appendix__
----
 ---
 ___
 
