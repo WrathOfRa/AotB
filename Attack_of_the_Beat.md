@@ -5,7 +5,7 @@
 - Hung Nguyen (nguyeh6@mail.uc.edu)
 
 #### Faculty:
-- TBD
+- Chia Han
 
 ---
 
