@@ -55,17 +55,17 @@ __Design Diagrams__
 ---
 ---
 ___
-Level 0
+##### Level 0
 
 ![](/Design_Diagrams/Design_Diagram_D0.png "Level 0")
 
 ---
-Level 1
+##### Level 1
 
 ![](/Design_Diagrams/Design_Diagram_D1.png "Level 1")
 
 ---
-Level 2
+##### Level 2
 
 ![](/Design_Diagrams/Design_Diagram_D2.png "Level 2")
 
