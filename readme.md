@@ -1,5 +1,4 @@
 # __Attack of the Beat__
----
 ___
 ##### Project Members: Sean McManes and Hung Nguyen
 ##### Advisor: Professor Chia Han
