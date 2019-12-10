@@ -167,7 +167,7 @@ __PowerPoint Slideshow__
 ---
 ___
 
-https://github.com/WrathOfRa/CS_Senior_Design/Homework/Assignment_8/Project_Slides.pptx
+https://github.com/WrathOfRa/CS_Senior_Design/tree/master/Homework/Assignment_8/Project_Slides.pptx
 
 
 
