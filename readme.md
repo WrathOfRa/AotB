@@ -118,7 +118,7 @@ __Project Timeline__
 ---
 ___
 
-
+![](/Homework/Assignment_6/Timeline.png "Timeline")
 
 
 
@@ -142,7 +142,7 @@ __Effort Matrix__
 ---
 ___
 
-
+![](/Homework/Assignment_6/Effort_Matrix.png "Effort Matrix")
 
 
 
@@ -167,7 +167,7 @@ __PowerPoint Slideshow__
 ---
 ___
 
-![](/Homework/Assignment_8/Project_Slides.pptx "Powerpoint Slides")
+https://github.com/WrathOfRa/CS_Senior_Design/Homework/Assignment_8/Project_Slides.pptx
 
 
 
