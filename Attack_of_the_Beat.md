@@ -13,7 +13,7 @@
 
 The goal of this project is to create a game that is an enjoyable experience for the player by challenging them, creating an interesting game environment, and has game mechanics that have not been fully explored by other games.
 
-The main aspect that would make this game stand out from others is the use of game music that would manipulated the gameplay and environment.  This would make the player not only have to look for visual queues in the game, but also audio queues in the music in order to have an advantage and complete the game.
+The main aspect that would make this game stand out from others is the use of game music that would manipulate the gameplay and environment.  This would make the player not only have to look for visual cues in the game, but also audio cues in the music in order to have an advantage and complete the game.
 
 Current games typically use the game music to set the tone of the world/gameplay.  For example, creating a suspenseful setting for a scary/horror game with low to no sound, or playing exciting music in an action filled game to get the player immersed in that game.  Some games have adapted their gameplay to the music or vice versa, but very few have directly used the music in order to modify the game experience.  The ones closest to doing this have stopped short and only do basic implementations, such as movement or attacks based on a constant beat of a generic song.
 
