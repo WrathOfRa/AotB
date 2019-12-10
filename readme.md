@@ -33,7 +33,7 @@ Our approach to this problem would include the following:
 
 ---
 
-__User Stories__
+### __User Stories__
 ___
 * As a programmer, I want the code to be clean and adaptable so I can make quick and simple additions to the game.
 
@@ -47,7 +47,7 @@ ___
 
 ---
 
-__Design Diagrams__
+### __Design Diagrams__
 ___
 ##### Level 0
 
@@ -67,7 +67,7 @@ ___
 
 ---
 
-__Diagram Description__
+### __Diagram Description__
 ___
 All of the diagrams shown above demonstrate the general flow of inputs and outputs of our system, the user input and output devices, and the user themselves.  At every iteration we increase the depth and description of each major group in this cycle to show what options each member has to be able to influence the system.  At the deepest iteration, we detail the internal cycles of updates and projected outputs of our system and also the general flow of information within our input and output devices, and our user’s thought process and possible execution.
 
@@ -75,7 +75,7 @@ All of the diagrams shown above demonstrate the general flow of inputs and outpu
 
 ---
 
-__Project Tasks__
+### __Project Tasks__
 ___
 * Design overall basis of game style and design (may be changed or expanded in the future) – Sean and Hung
   * Design objects and functions to run game program – Sean
@@ -105,7 +105,7 @@ ___
 
 ---
 
-__Project Timeline__
+### __Project Timeline__
 ___
 
 ![](/Homework/Assignment_6/Timeline.png "Timeline")
@@ -114,7 +114,7 @@ ___
 
 ---
 
-__Effort Matrix__
+### __Effort Matrix__
 ___
 
 ![](/Homework/Assignment_6/Effort_Matrix.png "Effort Matrix")
@@ -123,7 +123,7 @@ ___
 
 ---
 
-__PowerPoint Slideshow__
+### __PowerPoint Slideshow__
 ___
 
 https://github.com/WrathOfRa/CS_Senior_Design/tree/master/Homework/Assignment_8/Project_Slides.pptx
@@ -132,7 +132,7 @@ https://github.com/WrathOfRa/CS_Senior_Design/tree/master/Homework/Assignment_8/
 
 ---
 
-__Self-Assessment Essays__
+### __Self-Assessment Essays__
 ___
 
 __Sean McManes__
@@ -165,7 +165,7 @@ Our expected result is a working game with actual physics. This included knockba
 
 ---
 
-__Professional Biographies__
+### __Professional Biographies__
 ___
 
 # Sean McManes #
@@ -225,7 +225,7 @@ ___
 
 ---
 
-__Budget__
+### __Budget__
 ___
 
 | Date | By | Description | Hours |
@@ -304,7 +304,7 @@ ___
 
 ---
 
-__Appendix__
+### __Appendix__
 ___
 
 All project files, references, and project updates can be found on the Attack of the Beat Github Repository located at the following link.
