@@ -10,4 +10,4 @@ ___
 * [__Your first article(temp)__](/Assignments/Senior_Design_2/Assignment_2/Temp.md): discusses some of the DOs and DON'Ts, then show you how to create an article.
 
 
-[Return to main page.](/)
+[Return to main page.](https://github.com/WrathOfRa/AotB)
