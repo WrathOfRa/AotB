@@ -1,0 +1,6 @@
+# __Controls__
+___
+
+
+
+[Return to User Manual.](https://github.com/WrathOfRa/AotB/tree/master/User_Manual.md)
