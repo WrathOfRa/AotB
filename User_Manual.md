@@ -4,10 +4,11 @@ ___
 
 ### __Main Tutorials__
 ___
-* [__Training Tutorial(temp)__](/Assignments/Senior_Design_2/Assignment_2/Temp.md): a quick eight-part tutorial about the basics of how to edit.
-* [__Help:Introduction(temp)__](/Assignments/Senior_Design_2/Assignment_2/Temp.md): the main introduction page to the core principles of how to edit contained in thirteen short modules.
-* [__The Wikipedia Adventure(temp)__](/Assignments/Senior_Design_2/Assignment_2/Temp.md): a guided tour with fun, interactive learning, and practice.
-* [__Your first article(temp)__](/Assignments/Senior_Design_2/Assignment_2/Temp.md): discusses some of the DOs and DON'Ts, then show you how to create an article.
+* [__Getting the Game Ready__](/Assignments/Senior_Design_2/Assignment_2/Getting_the_Game_Ready.md): How to download the game and get it ready to play!
+* [__Customizing your Game__](/Assignments/Senior_Design_2/Assignment_2/Customizing_your_Game.md): How to customize the game to fit your style.
+* [__Controls__](/Assignments/Senior_Design_2/Assignment_2/Controls.md): Before we get started, lets get your bearings straight.
+* [__Starting the Game__](/Assignments/Senior_Design_2/Assignment_2/Starting_the_Game.md): Once you're ready, it's time to get started.
+
 
 
 [Return to main page.](https://github.com/WrathOfRa/AotB)
