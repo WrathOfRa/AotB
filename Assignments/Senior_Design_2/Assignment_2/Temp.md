@@ -3,4 +3,4 @@ ___
 
 
 
-[Return to User Manual.](https://github.com/WrathOfRa/AotB/blob/master/User_Manual.md)
+[Return to User Manual.](https://github.com/WrathOfRa/AotB/tree/master/User_Manual.md)
