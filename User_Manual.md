@@ -8,6 +8,7 @@ ___
 * [__Customizing your Game__](/Assignments/Senior_Design_2/Assignment_2/Customizing_your_Game.md): How to customize the game to fit your style.
 * [__Controls__](/Assignments/Senior_Design_2/Assignment_2/Controls.md): Before we get started, lets get your bearings straight.
 * [__Starting the Game__](/Assignments/Senior_Design_2/Assignment_2/Starting_the_Game.md): Once you're ready, it's time to get started.
+* [__FAQ__](/Assignments/Senior_Design_2/Assignment_2/FAQ.md): Your questions, our answers.
 
 
 
