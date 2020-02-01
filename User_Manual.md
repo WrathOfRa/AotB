@@ -11,4 +11,4 @@ ___
 
 
 
-[Return to main page.](https://github.com/WrathOfRa/AotB)
+[Return to Main Page.](https://github.com/WrathOfRa/AotB)
