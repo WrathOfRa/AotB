@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AssetData>
+
+    <TileData>
+
+        <Unknown>
+            <Unknown>
+                <path>Assets/Unknown.png</path>
+                <sTiles>XXXXXXXX</sTiles>
+                <oTags>N</oTags>
+                <isWall>true</isWall>
+             </Unknown>
+        </Unknown>
+
+        <BlankSpace>
+            <BlankSpace>
+                <path>Assets/BlankSpace.png</path>
+                <sTiles>XXXXXXXX</sTiles>
+                <oTags>N</oTags>
+                <isWall>true</isWall>
+            </BlankSpace>
+        </BlankSpace>
+
+        <StoneTile>
+
+            <StoneTile_1>
+                <path>Assets/StoneTile/StoneTile_1.png</path>
+                <sTiles>FFFFFFFF</sTiles>
+                <oTags>N</oTags>
+                <isWall>false</isWall>
+            </StoneTile_1>
+
+            <StoneTile_2>
+                <path>Assets/StoneTile/StoneTile_2.png</path>
+                <sTiles>FFXWXFFF</sTiles>
+                <oTags>R</oTags>
+                <isWall>false</isWall>
+            </StoneTile_2>
+
+            <StoneTile_3>
+                <path>Assets/StoneTile/StoneTile_3.png</path>
+                <sTiles>XFXWXFXW</sTiles>
+                <oTags>R</oTags>
+                <isWall>false</isWall>
+            </StoneTile_3>
+
+            <StoneTile_4>
+                <path>Assets/StoneTile/StoneTile_4.png</path>
+                <sTiles>FFXWWWXF</sTiles>
+                <oTags>R</oTags>
+                <isWall>false</isWall>
+            </StoneTile_4>
+
+            <StoneTile_5>
+                <path>Assets/StoneTile/StoneTile_5.png</path>
+                <sTiles>XWWWWWXF</sTiles>
+                <oTags>R</oTags>
+                <isWall>false</isWall>
+            </StoneTile_5>
+
+            <StoneTile_6>
+                <path>Assets/StoneTile/StoneTile_6.png</path>
+                <sTiles>WWWWWWWW</sTiles>
+                <oTags>N</oTags>
+                <isWall>false</isWall>
+            </StoneTile_6>
+
+            <StoneTile_7>
+                <path>Assets/StoneTile/StoneTile_7.png</path>
+                <sTiles>FFFFWFFF</sTiles>
+                <oTags>R</oTags>
+                <isWall>false</isWall>
+            </StoneTile_7>
+
+            <StoneTile_8>
+                <path>Assets/StoneTile/StoneTile_8.png</path>
+                <sTiles>FFFFWFWF</sTiles>
+                <oTags>R</oTags>
+                <isWall>false</isWall>
+            </StoneTile_8>
+
+            <StoneTile_9>
+                <path>Assets/StoneTile/StoneTile_9.png</path>
+                <sTiles>WFFFWFFF</sTiles>
+                <oTags>R</oTags>
+                <isWall>false</isWall>
+            </StoneTile_9>
+
+            <StoneTile_10>
+                <path>Assets/StoneTile/StoneTile_10.png</path>
+                <sTiles>WFFFWFWF</sTiles>
+                <oTags>R</oTags>
+                <isWall>false</isWall>
+            </StoneTile_10>
+
+            <StoneTile_11>
+                <path>Assets/StoneTile/StoneTile_11.png</path>
+                <sTiles>WFWFWFWF</sTiles>
+                <oTags>N</oTags>
+                <isWall>false</isWall>
+            </StoneTile_11>
+
+            <StoneTile_12>
+                <path>Assets/StoneTile/StoneTile_12.png</path>
+                <sTiles>FFXWXFWF</sTiles>
+                <oTags>RF</oTags>
+                <isWall>false</isWall>
+            </StoneTile_12>
+
+            <StoneTile_13>
+                <path>Assets/StoneTile/StoneTile_13.png</path>
+                <sTiles>WFXWWWXF</sTiles>
+                <oTags>R</oTags>
+                <isWall>false</isWall>
+            </StoneTile_13>
+
+            <StoneTile_14>
+                <path>Assets/StoneTile/StoneTile_14.png</path>
+                <sTiles>WFXWXFWF</sTiles>
+                <oTags>R</oTags>
+                <isWall>false</isWall>
+            </StoneTile_14>
+
+        </StoneTile>
+
+        <StoneWall>
+
+            <StoneWall_1>
+                <path>Assets/StoneWall/StoneWall_1.png</path>
+                <sTiles>WWWWFWWW</sTiles>
+                <oTags>N</oTags>
+                <isWall>true</isWall>
+            </StoneWall_1>
+
+            <StoneWall_2>
+                <path>Assets/StoneWall/StoneWall_2.png</path>
+                <sTiles>WWWWFFWW</sTiles>
+                <oTags>N</oTags>
+                <isWall>true</isWall>
+            </StoneWall_2>
+
+            <StoneWall_3>
+                <path>Assets/StoneWall/StoneWall_3.png</path>
+                <sTiles>WWWWFFFW</sTiles>
+                <oTags>N</oTags>
+                <isWall>true</isWall>
+            </StoneWall_3>
+
+            <StoneWall_4>
+                <path>Assets/StoneWall/StoneWall_4.png</path>
+                <sTiles>WWWWWFFW</sTiles>
+                <oTags>N</oTags>
+                <isWall>true</isWall>
+            </StoneWall_4>
+            
+            <StoneWall_5>
+                <path>Assets/StoneWall/StoneWall_5.png</path>
+                <sTiles>WWWWWWFW</sTiles>
+                <oTags>N</oTags>
+                <isWall>true</isWall>
+            </StoneWall_5>
+
+            <StoneWall_6>
+                <path>Assets/StoneWall/StoneWall_6.png</path>
+                <sTiles>WWWWWWFF</sTiles>
+                <oTags>N</oTags>
+                <isWall>true</isWall>
+            </StoneWall_6>
+
+            <StoneWall_7>
+                <path>Assets/StoneWall/StoneWall_7.png</path>
+                <sTiles>FWWWWWFF</sTiles>
+                <oTags>N</oTags>
+                <isWall>true</isWall>
+            </StoneWall_7>
+
+            <StoneWall_8>
+                <path>Assets/StoneWall/StoneWall_8.png</path>
+                <sTiles>FWWWWWWF</sTiles>
+                <oTags>N</oTags>
+                <isWall>true</isWall>
+            </StoneWall_8>
+
+            <StoneWall_9>
+                <path>Assets/StoneWall/StoneWall_9.png</path>
+                <sTiles>FWWWWWWW</sTiles>
+                <oTags>N</oTags>
+                <isWall>true</isWall>
+            </StoneWall_9>
+
+            <StoneWall_10>
+                <path>Assets/StoneWall/StoneWall_10.png</path>
+                <sTiles>FFWWWWWW</sTiles>
+                <oTags>N</oTags>
+                <isWall>true</isWall>
+            </StoneWall_10>
+
+            <StoneWall_11>
+                <path>Assets/StoneWall/StoneWall_11.png</path>
+                <sTiles>FFFWWWWW</sTiles>
+                <oTags>N</oTags>
+                <isWall>true</isWall>
+            </StoneWall_11>
+
+            <StoneWall_12>
+                <path>Assets/StoneWall/StoneWall_12.png</path>
+                <sTiles>WFFWWWWW</sTiles>
+                <oTags>N</oTags>
+                <isWall>true</isWall>
+            </StoneWall_12>
+
+            <StoneWall_13>
+                <path>Assets/StoneWall/StoneWall_13.png</path>
+                <sTiles>WWFWWWWW</sTiles>
+                <oTags>N</oTags>
+                <isWall>true</isWall>
+            </StoneWall_13>
+
+            <StoneWall_14>
+                <path>Assets/StoneWall/StoneWall_14.png</path>
+                <sTiles>WWFFWWWW</sTiles>
+                <oTags>N</oTags>
+                <isWall>true</isWall>
+            </StoneWall_14>
+
+            <StoneWall_15>
+                <path>Assets/StoneWall/StoneWall_15.png</path>
+                <sTiles>WWFFWWWW</sTiles>
+                <oTags>N</oTags>
+                <isWall>true</isWall>
+            </StoneWall_15>
+
+            <StoneWall_16>
+                <path>Assets/StoneWall/StoneWall_16.png</path>
+                <sTiles>WWWFFWWW</sTiles>
+                <oTags>N</oTags>
+                <isWall>true</isWall>
+            </StoneWall_16>
+
+            <StoneWall_17>
+                <path>Assets/StoneWall/StoneWall_17.png</path>
+                <sTiles>WWXFXFXW</sTiles>
+                <oTags>N</oTags>
+                <isWall>true</isWall>
+            </StoneWall_17>
+
+            <StoneWall_18>
+                <path>Assets/StoneWall/StoneWall_18.png</path>
+                <sTiles>XWWWXFXF</sTiles>
+                <oTags>N</oTags>
+                <isWall>true</isWall>
+            </StoneWall_18>
+
+            <StoneWall_19>
+                <path>Assets/StoneWall/StoneWall_19.png</path>
+                <sTiles>XFXWWWXF</sTiles>
+                <oTags>N</oTags>
+                <isWall>true</isWall>
+            </StoneWall_19>
+
+            <StoneWall_20>
+                <path>Assets/StoneWall/StoneWall_20.png</path>
+                <sTiles>XFXFXWWW</sTiles>
+                <oTags>N</oTags>
+                <isWall>true</isWall>
+            </StoneWall_20>
+
+        </StoneWall>
+
+    </TileData>
+
+</AssetData>

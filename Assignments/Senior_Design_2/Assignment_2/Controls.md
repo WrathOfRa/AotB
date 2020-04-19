@@ -6,6 +6,11 @@ ___
   * Down: [S]
   * Left: [A]
   * Right: [D]
-* Melee Attack: [Left Mouse]
+  * Sprint Toggle: [Left_Shift]
+* Melee Attack: [Left_Mouse]
+* Music Controls:
+  * Previous Song: [1]
+  * Next Song: [2]
+* Exit Application: [Escape]
 
 [Return to User Manual.](https://github.com/WrathOfRa/AotB/tree/master/User_Manual.md)
