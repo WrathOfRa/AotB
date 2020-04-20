@@ -4,9 +4,11 @@ ___
 * Pre-Built Game Version
   * Run Attack_of_the_Beat.exe
     * Located user_path/Attack_of_the_Beat/PreBuilt/Attack_of_the_Beat.exe
+    * Built Folder:
 ![](/Assignments/Senior_Design_2/Assignment_2/Images/4_Built.jpg "Built Version")
 
 * Developer Version
+  * Developer Folder:
 ![](/Assignments/Senior_Design_2/Assignment_2/Images/5_Developer.jpg "Developer Version")
   * Install Unity Hub and Install the Latest Unity Version.
 ![](/Assignments/Senior_Design_2/Assignment_2/Images/6_Unity_Hub.jpg "Unity Hub")
