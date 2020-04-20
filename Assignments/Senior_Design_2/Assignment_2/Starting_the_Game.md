@@ -23,13 +23,13 @@ ___
   * See [Customizing Your Game](https://github.com/WrathOfRa/AotB/tree/master/Assignments/Senior_Design_2/Assignment_2/Customizing_your_Game.md) to Add Your Own Music
 
   * Once You Are Ready, Select File and Build Settings
-![](/Assignments/Senior_Design_2/Assignment_2/Images/12_Build_Game.jpg "Select File and Build Settings")
+![](/Assignments/Senior_Design_2/Assignment_2/Images/12_Build_Game.png "Select File and Build Settings")
   * Select Build
-![](/Assignments/Senior_Design_2/Assignment_2/Images/13_Build_Settings.jpg "Build Settings")
+![](/Assignments/Senior_Design_2/Assignment_2/Images/13_Build_Settings.png "Build Settings")
   * Create a New Folder For Your Custom Build and Select That Folder
-![](/Assignments/Senior_Design_2/Assignment_2/Images/14_Build_Location.jpg "Select a Location for the Build")
+![](/Assignments/Senior_Design_2/Assignment_2/Images/14_Build_Location.png "Select a Location for the Build")
   * Run Attack_of_the_Beat.exe From Your Custom Build Location Once It Completes.
-![](/Assignments/Senior_Design_2/Assignment_2/Images/15_Build_Launch.jpg "Launch Build")
+![](/Assignments/Senior_Design_2/Assignment_2/Images/15_Build_Launch.png "Launch Build")
 
 
 [Return to User Manual.](https://github.com/WrathOfRa/AotB/tree/master/User_Manual.md)
