@@ -2,7 +2,6 @@
 ---
 #### Members:
 - Sean McManes (mcmanesw@mail.uc.edu)
-- Hung Nguyen (nguyeh6@mail.uc.edu)
 
 #### Faculty:
 - Chia Han

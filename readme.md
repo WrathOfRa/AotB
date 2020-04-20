@@ -1,6 +1,6 @@
 # __Attack of the Beat__
 ___
-##### Project Members: Sean McManes and Hung Nguyen
+##### Project Members: Sean McManes
 ##### Advisor: Professor Chia Han
 ###### December 9, 2019
 
@@ -149,22 +149,6 @@ Our first steps in reaching our goal for this project are to build a working gam
 
 ---
 
-__Hung Nguyen__
-
-For our project, Sean and I are creating a game called “ Attack of the Beat”. The project is about implementing our coding skills whilst learning some new designing skills to create a functioning game. The game will be a top down hack and slash with enemies based off the music playing. We feel like this would be a good project to test how good our programming skills are and learn some designing in the process. We will be combining multiple libraries and have already set up a list of what to do. This project will show how we’ve really grown as programmers in the four years we have been at University of Cincinnati.
-
-We've both taken a lot of programming courses, and we’ve been introduced to Python, C++, Java, etc. For this project we’ve both decided to use C++ as it is the most common and functional. The first two CS courses helped me get familiar with C++ and how to use it. Data Structures helped me get a grasp of object-oriented programming and programming languages got me acquainted with safe coding habit to prevent memory loss. Discrete structures also helped me with the mathematical aspects of the game, figuring out trajectory and bounce movements.
-
-For my co-op experience, I had plenty of coding experience working at FPT Software. We do a lot of third-party coding for clients, so I had opportunity to look through a lot of different kinds of codes for different software. This has really broadened my views of coding and the possibilities of it.  I’ve also learned a lot of teamwork skills, punctuality and responsibility that I intend to bring into this project. I really got to test my coding ability and learn new skills from my supervisors.
-
-I have always been interested in game design, whether it’s the intricate technical aspects of Game AI or the specifics of game design. That’s why I’m extremely motivated to do this project and get a working product. Our approach to the game is to do the general layers of the game first. Then we would work on the specifics to improve on the finer details of the game. We have made a roadmap of what we want to do in what specific order and by following it, we believe we can effectively accomplish our goal. 
-
-Our expected result is a working game with actual physics. This included knockback from being hit, bouncing bullet movements and other mathematical game mechanics. At the same time, we expect to be able to utilize a C library to read soundwaves and from that create matching enemy types. We will evaluate our contributions during weekly meetings and self-evaluation. We are not sure when we will be done since the project can always see improvements in our eyes and we have high hopes for it. However, we will know when we have done a good job when we have a working product of the game that runs smoothly.
-
-
-
----
-
 ### __Professional Biographies__
 ___
 
@@ -204,23 +188,6 @@ ___
     * Saving and loading prior game states
     * Artificial intelligence for objects in the game to create challenging and interesting aspects to the game
     * Possibly a retro game design (pixel art for game objects) with more modernized gameplay
-
----
-
-# Professional Biography
-## Contact Information
-  * Name: Hung Nguyen Duy
-  * Email: nguyeh6@mail.uc.edu
-  * Phone No.: 513-302-4596
-### Co-op Work Experience
-  * FPT Software - Software Engineering Intern
-    * Company Cloud-based storage setup
-    * Web-based coding according to client request
-  * Onesight -IT Intern
-    * Web crawling for location data through a password protected website.
-#### Project Sought:
-  * I'm interested in and intend to do a project related to automatic trading algorithms or game development.
-
 
 
 ---
@@ -309,5 +276,5 @@ ___
 
 All project files, references, and project updates can be found on the Attack of the Beat Github Repository located at the following link.
 
-https://github.com/WrathOfRa/CS_Senior_Design
+https://github.com/WrathOfRa/AotB
 
