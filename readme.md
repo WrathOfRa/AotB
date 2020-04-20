@@ -77,29 +77,29 @@ All of the diagrams shown above demonstrate the general flow of inputs and outpu
 
 ### __Project Tasks__
 ___
-* Design overall basis of game style and design (may be changed or expanded in the future) – Sean and Hung
+* Design overall basis of game style and design (may be changed or expanded in the future) – Sean
   * Design objects and functions to run game program – Sean
   * Design objects and functions for displaying game – Sean
-  * Design objects and functions for basic game objects – Sean and Hung
-  * Research and design a proper method for storing game objects and assets – Hung
-  * Design objects and functions for object collisions and interactions – Hung
+  * Design objects and functions for basic game objects – Sean
+  * Research and design a proper method for storing game objects and assets – Sean
+  * Design objects and functions for object collisions and interactions – Sean
   * Design objects and functions for handling game music and sound effects – Sean
-  * Design objects and functions for displaying and handling interactions with various game menus – Hung
-* Develop the main components of the game engine – Sean and Hung
-  * Test these components – Sean and Hung
-  * Refine these components – Sean and Hung
-  * Test these components – Sean and Hung
-* Design basic/sample assets for the game to use – Hung
+  * Design objects and functions for displaying and handling interactions with various game menus – Sean
+* Develop the main components of the game engine – Sean
+  * Test these components – Sean
+  * Refine these components – Sean
+  * Test these components – Sean
+* Design basic/sample assets for the game to use – Sean
 * Design player model and animations – Sean
-* Design game world object’s models and animations – Sean and Hung
-* Test and refine game objects and assets – Sean and Hung
+* Design game world object’s models and animations – Sean
+* Test and refine game objects and assets – Sean
 * Design objects and functions for analyzing game music – Sean
 * Design objects and functions to use this data to output proper actions for game objects – Sean
-* Test and refine game objects and assets based on the actions from the game music – Sean and Hung
-* Design additional game objects and functions to meet originally planned game mechanics – Sean and Hung
+* Test and refine game objects and assets based on the actions from the game music – Sean
+* Design additional game objects and functions to meet originally planned game mechanics – Sean
   * Additional player items (weapons, armor, …) to increase gameplay/player variety
   * Additional game environments and game world objects
-* Create product demos – Sean and Hung
+* Create product demos – Sean
 
 
 
@@ -195,77 +195,87 @@ ___
 ### __Budget__
 ___
 
+### Fall
+
 | Date | By | Description | Hours |
 --- | --- | --- | ---
-8/27/2019 | Sean | Class Meeting and Project Discussion | 1.00
-8/27/2019 | Hung | Class Meeting and Project Discussion | 1.00
-8/30/2019 | Sean | 	Professional Biography | 	2.00
-8/30/2019 | Hung | 	Professional Biography | 	2.00
-9/3/2019 | 	Sean | 	Class Meeting and Project Discussion | 	1.00
-9/3/2019 | 	Hung | 	Class Meeting and Project Discussion | 	1.00
-9/6/2019 | 	Sean | 	Project Description | 	2.00
-9/6/2019 | 	Hung | 	Project Description | 	2.00
-9/8/2019 | 	Sean | 	Discussion of Overall Game Ideas | 	1.00
-9/8/2019 | 	Hung | 	Discussion of Overall Game Ideas | 	1.00
-9/10/2019 | 	Sean | 	Class Meeting and Project Discussion | 	1.00
-9/10/2019 | 	Hung | 	Class Meeting and Project Discussion | 	1.00
-9/12/2019 | 	Sean | 	Capstone Assessment | 	2.00
-9/13/2019 | 	Hung | 	Capstone Assessment | 	2.00
-9/14/2019 | 	Sean |	Researching Game Design Ideas | 	2.00
-9/15/2019 | 	Hung | 	Begin Early Concept Designs for Game | 	3.00
-9/17/2019 | 	Sean | 	Class Meeting and Project Discussion | 	1.00
-9/17/2019 | 	Hung | 	Class Meeting and Project Discussion | 	1.00
-9/18/2019 | 	Sean | 	Researching and Experimentation with Game Display Design | 	4.00
-9/18/2019 | 	Sean | 	User Stories | 	2.00
-9/18/2019 | 	Hung | 	User Stories | 	2.00
-9/20/2019 | 	Sean | 	Design Diagrams Discussion | 	2.00
-9/20/2019 | 	Hung | 	Design Diagrams Discussion | 	2.00
-9/21/2019 | 	Sean | 	Researching and Experimentation with Object Management | 	3.00
-9/21/2019 | 	Hung | 	Finished Early Assets for Game Testing | 	4.00
-9/22/2019 | 	Sean | 	Design Diagrams Finalizing | 	2.00
-9/22/2019 | 	Hung | 	Design Diagrams Finalizing | 	2.00
-9/24/2019 | 	Sean | 	Class Meeting and Project Discussion | 	1.00
-9/24/2019 | 	Hung | 	Class Meeting and Project Discussion | 	1.00
-9/27/2019 | 	Sean | 	Initial Task List Discussion | 	2.00
-9/27/2019 | 	Hung | 	Initial Task List Discussion | 	2.00
-10/1/2019 | 	Sean | 	Class Meeting and Project Discussion | 	1.00
-10/1/2019 | 	Hung | 	Class Meeting and Project Discussion | 	1.00
-10/3/2019 | 	Sean | 	Task List Finalizing | 	2.00
-10/4/2019 | 	Hung | 	Task List Finalizing | 	2.00
-10/5/2019 | 	Hung | 	Researching Audio Analysis Tools | 	3.00
-10/8/2019 | 	Sean | 	Class Meeting and Project Discussion | 	1.00
-10/8/2019 | 	Hung | 	Class Meeting and Project Discussion | 	1.00
-10/9/2019 | 	Sean | 	Timeline  | 	2.00
-10/9/2019 | 	Hung | 	Timeline  | 	2.00
-10/11/2019 | 	Sean | 	Effort Matrix | 	2.00
-10/11/2019 | 	Hung | 	Effort Matrix | 	2.00
-10/12/2019 | 	Sean | 	Continuing the Design of Early Game Display Functions | 	4.00
-10/15/2019 | 	Sean |	Class Meeting and Project Discussion | 	1.00
-10/15/2019 | 	Hung | 	Class Meeting and Project Discussion | 	1.00
-10/18/2019 | 	Sean | 	Experimenting with Functions to Analyze Game Music | 	1.00
-10/18/2019 | 	Hung | 	Experimenting with Functions to Analyze Game Music | 	1.00
-10/23/2019 | 	Sean | 	Slideshow Discussion | 	2.00
-10/23/2019 | 	Hung | 	Slideshow Discussion | 	2.00
-10/25/2019 | 	Sean | 	Brain Storming Possible Game Music Manipulations | 	3.00
-10/25/2019 | 	Hung | 	Designing and Researching Game Models and Assets | 	2.00
-10/30/2019 | 	Sean | 	Slideshow Finalization and Recording | 	3.00
-10/30/2019 | 	Hung | 	Slideshow Finalization and Recording | 	3.00
-11/6/2019 | 	Sean | 	Designing High Level Ideas to Implement the Music Manipulations | 	2.00
-11/8/2019 | 	Hung | 	Researching and Experimenting with Game Object Storage | 	2.00
-11/12/2019 | 	Sean | 	Presentation and Class Meeting | 	2.00
-11/12/2019 | 	Hung | 	Presentation and Class Meeting | 	2.00
-11/15/2019 | 	Sean | 	Continuing Game Object Design and Early Testing	 | 2.00
-11/17/2019 | 	Hung | 	Continuing Game Asset Design | 	2.00
-11/19/2019 | 	Sean | 	Peer Presentations and Class Meeting/Disscussion | 	2.00
-11/19/2019 | 	Hung | 	Peer Presentations and Class Meeting/Disscussion | 	2.00
-11/22/2019 | 	Hung | 	Continuing Design Ideas for Game Asset and Object Storage | 	2.00
-11/26/2019 | 	Sean | 	Peer Presentations and Class Meeting/Disscussion | 	2.00
-11/26/2019 | 	Hung | 	Peer Presentations and Class Meeting/Disscussion | 	2.00
-12/4/2019 | 	Sean | 	Meeting with Advisor | 	0.50
-12/4/2019 | 	Hung | 	Meeting with Advisor | 	0.50
+8/27/2019  | 	Sean | 	Class Meeting and Project Discussion | 	1
+8/30/2019	 | 	Sean | 	Professional Biography | 	2
+9/3/2019   | 	Sean | 	Class Meeting and Project Discussion | 	1
+9/6/2019   | 	Sean | 	Project Description	 | 2
+9/8/2019   | 	Sean | 	Discussion of Overall Game Ideas | 	1
+9/10/2019  | 	Sean | 	Class Meeting and Project Discussion | 	1
+9/12/2019  | 	Sean | 	Capstone Assessment | 	2
+9/14/2019  | 	Sean | 	Researching Game Design Ideas | 	2
+9/17/2019  | 	Sean | 	Class Meeting and Project Discussion | 	1
+9/18/2019  | 	Sean | 	Researching and Experimentation with Game Display Design | 	4
+9/18/2019  | 	Sean | 	User Stories | 	2
+9/20/2019  | 	Sean | 	Design Diagrams Discussion | 	2
+9/21/2019  | 	Sean | 	Researching and Experimentation with Object Management | 	3
+9/22/2019  | 	Sean | 	Design Diagrams Finalizing | 	2
+9/24/2019  | 	Sean | 	Class Meeting and Project Discussion | 	1
+9/27/2019  | 	Sean | 	Initial Task List Discussion | 	2
+10/1/2019  | 	Sean | 	Class Meeting and Project Discussion | 	1
+10/3/2019  | 	Sean | 	Task List Finalizing | 	2
+10/8/2019  | 	Sean | 	Class Meeting and Project Discussion | 	1
+10/9/2019  | 	Sean | 	Timeline  | 	2
+10/11/2019 | 	Sean | 	Effort Matrix	 | 2
+10/12/2019 | 	Sean | 	Continuing the Design of Early Game Display Functions | 	4
+10/15/2019 | 	Sean | 	Class Meeting and Project Discussion | 	1
+10/18/2019 | 	Sean | 	Experimenting with Functions to Analyze Game Music | 	1
+10/23/2019 | 	Sean | 	Slideshow Discussion | 	2
+10/25/2019 | 	Sean | 	Brain Storming Possible Game Music Manipulations | 	3
+10/30/2019 | 	Sean | 	Slideshow Finalization and Recording | 	3
+11/6/2019  | 	Sean | 	Designing High Level Ideas to Implement the Music Manipulations | 	2
+11/12/2019 | 	Sean | 	Presentation and Class Meeting | 	2
+11/15/2019 | 	Sean | 	Continuing Game Object Design and Early Testing | 	2
+11/19/2019 | 	Sean | 	Peer Presentations and Class Meeting/Disscussion | 	2
+11/26/2019 | 	Sean | 	Peer Presentations and Class Meeting/Disscussion | 	2
+12/4/2019  | 	Sean | 	Meeting with Advisor | 	0.5
  |  |  |
- |  |  | Group Totals | 	121.00
- |  |  | Group Bill ($75/Hr)	 | $9075.00
+ |  |  | Total Number of Hours | 	61.5
+ |  |  | Group Bill ($37.50/Hr)	 | $2306.25
+
+
+### Spring
+
+| Date | By | Description | Hours |
+--- | --- | --- | ---
+12/16/2019	| Sean	| Test Assets Development	| 5
+12/20/2019	| Sean	| Map Creater and Initial Asset Creation	| 5
+12/30/2019	| Sean	| Initial Audio Analysis Function Creation	| 5
+1/2/2020	| Sean	| SFML and SDL Game Display Function Updating	| 5
+1/15/2020	| Sean	| Class Meeting and Planning	| 1
+1/19/2020	| Sean	| Test Plans	| 3
+1/24/2020	| Sean	| User Documentation	| 3
+2/5/2020	| Sean	| Class Meeting and Planning	| 1
+2/10/2020	| Sean	| Game Object and Music Initial Combination Experimentation	| 5
+2/14/2020	| Sean	| PowerPoint Documentation	| 3
+2/20/2020	| Sean	| Unity Research and Initial Conversion	| 5
+2/26/2020	| Sean	| Expo Poster Draft	| 3
+3/1/2020	| Sean	| Unity Initial Base Game Setup and Experimentation	| 5
+3/4/2020	| Sean	| Class Meeting and Reviewing	| 1
+3/10/2020	| Sean	| Unity Map Creator Conversion	| 3
+3/16/2020	| Sean	| Unity Player Asset Creation and Adjustments	| 4
+3/18/2020	| Sean	| Unity Player Animation Development	| 3
+3/20/2020	| Sean	| Unity Player Movement and Action Development	| 5
+3/21/2020	| Sean	| Unity Sound Analysis Development	| 3
+3/22/2020	| Sean	| Unity Visual Sound Analizer Development	| 5
+3/23/2020	| Sean	| Poster Final Draft	| 2
+3/23/2020	| Sean	| Unity Music-Manipulated Function Development	| 5
+3/25/2020	| Sean	| Unity Projectile Attempt	| 5
+3/26/2020	| Sean	| Unity Data Prediction Experimentation	| 3
+3/30/2020	| Sean	| Unity Laser Object Development	| 5
+4/5/2020	| Sean	| Unity Laser Object Improvement	| 3
+4/10/2020	| Sean	| Final Self Assessment	| 2
+4/16/2020	| Sean	| Expo Demo Video	| 2
+4/18/2020	| Sean	| Final Report	| 5
+4/20/2020	| Sean	| Final Revisions and Improvement	| 5
+ |  |  |
+ |  |  | Total Number of Hours | 	110
+ |  |  | Group Bill ($37.50/Hr)	 | $4125.00
+
+
 
 
 
