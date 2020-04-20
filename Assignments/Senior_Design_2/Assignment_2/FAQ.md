@@ -1,7 +1,7 @@
 # __Frequently Asked Questions__
 ___
 
-__Your questions, our answers.__
+### __Your questions, our answers.__
 
 __1. What music files can be used in this game?__
   * So far, .mp3 and .wav have been tested and work
