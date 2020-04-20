@@ -19,7 +19,7 @@ ___
   * Click Confirm to Upgrade the Game to Any New Version of Unity
 ![](/Assignments/Senior_Design_2/Assignment_2/Images/9_Set_to_Release.jpg "Set Game to Current Unity Release")
   * Unity Editor Will Launch and You Should See This Screen
-![](/Assignments/Senior_Design_2/Assignment_2/Images/10_Unity_Running.jpg "Unity Running")
+![](/Assignments/Senior_Design_2/Assignment_2/Images/10_Unity_Running.png "Unity Running")
   * See [Customizing Your Game](https://github.com/WrathOfRa/AotB/tree/master/Assignments/Senior_Design_2/Assignment_2/Customizing_your_Game.md) to Add Your Own Music
 
   * Once You Are Ready, Select File and Build Settings
